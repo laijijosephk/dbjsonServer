@@ -1,0 +1,115 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "This is my first post",
+      "body": "lorem ipsum doler sit amet. dockens  hreu thilse.",
+      "Latest": true,
+      "Oldest": false,
+      "Likes": true,
+      "Dislikes": false
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "This is second",
+      "body": "this is my second post",
+      "Latest": false,
+      "Oldest": true,
+      "Likes": true,
+      "Dislikes": false
+    },
+    {
+      "title": "Fourth post",
+      "body": "this is an old post",
+      "id": 4,
+      "Latest": false,
+      "Oldest": true,
+      "Likes": true,
+      "Dislikes": false
+    },
+    {
+      "title": "this is a new post",
+      "body": "additional post",
+      "id": 5,
+      "Latest": true,
+      "Oldest": false,
+      "Likes": true,
+      "Dislikes": false
+    },
+    {
+      "body": "this is a test post",
+      "title": "test post",
+      "id": 6,
+      "Latest": false,
+      "Oldest": true,
+      "Likes": false,
+      "Dislikes": true
+    },
+    {
+      "id": 7,
+      "title": "This is  new post",
+      "body": "created at 24 May 2022",
+      "Latest": false,
+      "Oldest": true,
+      "Likes": false,
+      "Dislikes": true
+    },
+    {
+      "id": 8,
+      "title": "second post 24th",
+      "body": "this is test again",
+      "Latest": false,
+      "Oldest": true,
+      "Likes": true,
+      "Dislikes": false
+    },
+    {
+      "id": 9,
+      "title": "sssssss",
+      "body": "new post",
+      "Latest": false,
+      "Oldest": true,
+      "Likes": false,
+      "Dislikes": true
+    }
+  ],
+  "users": [
+    {
+      "name": "test",
+      "email": "test@123.com",
+      "password": "test",
+      "role": "guest",
+      "id": 1
+    },
+    {
+      "name": "admin",
+      "email": "admin@123.com",
+      "password": "admin",
+      "role": "admin",
+      "id": 2
+    },
+    {
+      "name": "laiji",
+      "email": "laiji@123.com",
+      "password": "laiji",
+      "role": "guest",
+      "id": 3
+    },
+    {
+      "name": "anu",
+      "email": "anu@gmail.com",
+      "password": "anu",
+      "role": "guest",
+      "id": 4
+    },
+    {
+      "name": "xxx",
+      "email": "xxx@123.com",
+      "password": "f561aaf6ef0bf14d4208bb46a4ccb3ad",
+      "role": "guest",
+      "id": 5
+    }
+  ]
+}
